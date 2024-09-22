@@ -8,9 +8,13 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      container: {
+        center: true,
+        padding: "1rem",
+      },
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        accent: "#ff8f9c",
+        blackish: "#1b1b1b",
       },
     },
   },
