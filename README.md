@@ -38,6 +38,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
   - Navbar Bar: Includes links to various page sections such as Home, Categories, and other important areas of the site, improving overall site usability.
 
 - react slick
+- how to generate rating stars depend on rating number from data using switch case
 
 ## Technologies & Tools Used
 

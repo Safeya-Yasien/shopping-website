@@ -15,13 +15,7 @@ const Hero = () => {
   };
 
   const slideData = [
-    {
-      id: 1,
-      img: "/banner-1.jpeg",
-      title: "Trending Item",
-      mainTitle: "women's latest fashion sale",
-      price: "$20",
-    },
+
     {
       id: 2,
       img: "/banner-2.jpeg",
